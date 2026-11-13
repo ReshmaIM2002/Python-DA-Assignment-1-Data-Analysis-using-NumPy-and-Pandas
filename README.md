@@ -17,10 +17,9 @@ This project covers basic data analysis using Python, NumPy and Pandas.
 - NumPy
 - Pandas
 - Jupyter Notebook
-
-### Objective
+# Objective
 To understand and practice basic data analysis using Python.
 
-### Result
+# Result
 Successfully completed the assignment using NumPy and Pandas.
 
