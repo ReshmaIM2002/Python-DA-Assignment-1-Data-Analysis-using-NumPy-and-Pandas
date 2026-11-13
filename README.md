@@ -2,6 +2,10 @@
  About
 This project covers basic data analysis using Python, NumPy and Pandas.
 
+## Objective
+To understand and practice basic data analysis using Python.
+
+
  Topics Covered
 - NumPy arrays
 - Array operations and functions
@@ -17,8 +21,7 @@ This project covers basic data analysis using Python, NumPy and Pandas.
 - NumPy
 - Pandas
 - Jupyter Notebook
-## Objective
-To understand and practice basic data analysis using Python.
+
 
 ## Result
 Successfully completed the assignment using NumPy and Pandas.
